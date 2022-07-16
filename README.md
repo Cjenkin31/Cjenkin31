@@ -1,1 +1,1 @@
-- Hello! I'm currently a college student majoring in Computer Science.
+- A student just making random projects
