@@ -1,6 +1,7 @@
 # Christopher Jenkin's GitHub
 ## Finished Projects
 - [Youtube Downloader](<https://github.com/Cjenkin31/YoutubeDownloader>)
+- [Inventory Sorter For Isekaid](https://github.com/Cjenkin31/InventorySorter)
 ## Currently Working on
 - [Discord Bot](<https://github.com/Cjenkin31/banana-discord-bot>)
 - [Core Keeper Midi](<https://github.com/Cjenkin31/CoreKeeperMidiToKeyboard>)
